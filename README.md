@@ -51,8 +51,8 @@ conda env create
 # activate the environment
 conda activate jupyterlab-extension-examples
 
-# go to the hello world example
-cd hello-world
+# go to the launcher example
+cd launcher
 
 # install the extension in editable mode
 python -m pip install -e .
